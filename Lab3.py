@@ -4,7 +4,7 @@ def extract_values_from_dict(input_dict):
     values_list = [value for value in input_dict.values()]
 
     # Возвращаем список значений
-    return values_list
+    return values_lis
 
 
 # Пример использования функции:
